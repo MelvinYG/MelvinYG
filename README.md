@@ -13,11 +13,12 @@
 </div>
 
 - 🎓 Bachelor of Technology from Indian Institute of Technology (IIT) Patna
-- 💻 Ex - Full Stack Software Engineering Intern at Videoit  [cite_start]and SDE Intern at Baelux 
+- 💻 Ex - Full Stack Software Engineering Intern at Videoit and SDE Intern at Baelux 
 - 🐧 Open Source Contributor at LibreOffice 
 - 🏆 Solved 700+ problems across platforms | Pupil on Codeforces (max 1310), LeetCode (1665), 3 ⭐️ CodeChef (1610) 
 - 💡 Passionate about building scalable applications and optimizing performance.
-- 📫 Feel free to reach me out: **melvingeorge204@gmail.com** 
+- 📫 Feel free to reach me out: **melvingeorge204@gmail.com**
+- Link to my portfolio : <a href="https://melvins-portfolio.netlify.app/">Click here</a>
 
 <p align="center">
   <table align="center" border="0"> <tr>
